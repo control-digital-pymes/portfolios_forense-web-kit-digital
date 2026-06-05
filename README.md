@@ -32,11 +32,11 @@ Doy servicio a **pymes y centros educativos** de la zona de Málaga.
 
 | Formación | Centro | Nota |
 |---|---|---|
-| Peritaje Informático e Informática Forense | UNIR · 450 h | Sobresaliente 9,20 |
-| Director de Seguridad | UNIR · 450 h | Sobresaliente 9,50 |
-| Máster en Investigación Cibernética y Análisis Forense | UNIR · 2024–2025 | — |
-| Técnico Superior en Electrónica | FP de Grado Superior · Málaga | — |
-| Formación en Ciberseguridad | Next Generation EU · Kit Digital | — |
+| Programa Avanzado en Peritaje Informático e Informática Forense | UNIR · 450 h · 2025 | Sobresaliente 9,20 |
+| Curso en Director de Seguridad | UNIR · 450 h · 2024–2025 | Sobresaliente 9,50 |
+| Máster en Detective Privado, Ciberdelitos y Análisis Forense | UNIR · 2025 | Primer año cursado |
+| Técnico Superior en Mantenimiento Electrónico | IES Politécnico Jesús Marín · 2021–2023 | 7,00 |
+| Generación Digital · Agentes del Cambio (Kit Digital) | Euroformac · Next Generation EU · 375 h · 2024 | — |
 
 ---
 
