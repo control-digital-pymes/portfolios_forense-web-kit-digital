@@ -111,28 +111,6 @@ Hallazgos críticos: analítica completamente rota (años decidiendo a ciegas) y
 - Informes con criterio pericial (redacción rigurosa y orientada a la decisión)
 
 ---
-
-## Este repositorio
-
-Portfolio profesional en una sola página, sin dependencias ni proceso de build. Listo para **GitHub Pages**.
-
-```
-.
-├── index.html      ← sitio completo (HTML + CSS + JS embebidos)
-├── favicon.svg     ← escudo de marca
-├── CNAME           ← dominio personalizado (editar o eliminar)
-├── robots.txt
-├── .nojekyll
-└── README.md
-```
-
-### Publicarlo en GitHub Pages
-
-1. Sube estos archivos a un repositorio (p. ej. `control-digital-pymes.github.io` o cualquier repo).
-2. *Settings → Pages → Build and deployment → Source: Deploy from a branch → `main` / `root`.*
-3. En unos minutos estará en línea.
-4. **Dominio propio:** el archivo `CNAME` apunta a `controldigitalpymes.es`. Configura en tu proveedor DNS los registros que indique GitHub, o elimina el archivo si aún no vas a usar el dominio.
-
 ---
 
 <div align="center">
