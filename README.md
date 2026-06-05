@@ -30,13 +30,34 @@ Soy **Iván Andrei** (Dragos C. I. Andrei), técnico independiente con formació
 
 Doy servicio a **pymes y centros educativos** de la zona de Málaga.
 
-| Formación | Centro | Nota |
-|---|---|---|
-| Programa Avanzado en Peritaje Informático e Informática Forense | UNIR · 450 h · 2025 | Sobresaliente 9,20 |
-| Curso en Director de Seguridad | UNIR · 450 h · 2024–2025 | Sobresaliente 9,50 |
-| Máster en Detective Privado, Ciberdelitos y Análisis Forense | UNIR · 2025 | Primer año cursado |
-| Técnico Superior en Mantenimiento Electrónico | IES Politécnico Jesús Marín · 2021–2023 | 7,00 |
-| Generación Digital · Agentes del Cambio (Kit Digital) | Euroformac · Next Generation EU · 375 h · 2024 | — |
+### Posgrados · Títulos Propios UNIR
+
+- **Programa Avanzado en Peritaje Informático e Informática Forense** — UNIR · 450 h · 2025 · Sobresaliente 9,20
+- **Máster en Detective Privado, Ciberdelitos y Análisis Forense** — UNIR · 2025 · Primer año cursado
+- **Curso en Director de Seguridad** — UNIR · 450 h · 2024–2025 · Sobresaliente 9,50
+
+### Estudios oficiales
+
+- **Técnico Superior en Mantenimiento Electrónico** — IES Politécnico Jesús Marín, Málaga · 2021–2023 · calificación 7,00
+- **Estudios de Grado en Filosofía** — Universidad de Málaga · 2013–2019 · base en lógica, ética y filosofía de la ciencia
+- **Bachiller en Humanidades y Ciencias Sociales** — Junta de Andalucía · 2012
+
+### Especialización en ciberseguridad · Mainjobs / CNAI
+
+- **Análisis Forense Informático** — 60 h · 2024
+- **Bastionado de Redes y Sistemas** — 60 h · 2024
+- **Puesta en Producción Segura** — 60 h · 2024
+- **Incidentes de Ciberseguridad** — 60 h · 2024
+- **Detección y Documentación de Incidentes** — 30 h · 2024
+- **Normativa de Ciberseguridad** — 30 h · 2024
+- **Ciberseguridad Avanzada en Entornos OT** — Mainjobs · Microcréditos · 120 h · 2024
+
+### Cursos y programas oficiales
+
+- **Generación Digital · Agentes del Cambio (Kit Digital)** — Euroformac · Next Generation EU · 375 h · 2024
+- **Python y Django (IFCT095PO)** — Maude Studio · 40 h · 2024
+- **Java (IFCD033PO)** — Maude Studio · 60 h · 2024
+- **Introducción a la IA y los Algoritmos (IFCT155PO)** — Aula Directa · 180 h · 2022
 
 ---
 
